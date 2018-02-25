@@ -92,7 +92,7 @@ services:
 
         # Allow override of port/interface:
         serverPort: 443
-        serverInterface: '127.0.0.1'
+        #serverInterface: '127.0.0.1'
 
         # Enable linting of some wikitext errors to the log
         #linting: true
