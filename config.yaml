@@ -91,7 +91,7 @@ services:
         #allowCORS: 'some.domain.org'
 
         # Allow override of port/interface:
-        serverPort: 8685
+        serverPort: 443
         serverInterface: '127.0.0.1'
 
         # Enable linting of some wikitext errors to the log
